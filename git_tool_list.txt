@@ -31,3 +31,4 @@ https://github.com/ohpe/juicy-potato.git
 https://github.com/Dhayalanb/windows-php-reverse-shell.git
 https://github.com/AlessandroZ/LaZagne.git
 https://github.com/rasta-mouse/Watson.git
+https://github.com/CiscoCXSecurity/creddump7.git

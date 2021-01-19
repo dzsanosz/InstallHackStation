@@ -27,10 +27,18 @@ function get_github_tools {
 			git clone --recurse $tool
 		done
 	)
+	chown -R $SUDO_USER:$SUDO_USER /opt
+}
+
+# Copy tmux config to its place
+function setup_tmux {
+	cp $DIR/tmux.conf /home/$SUDO_USER/.tmux.conf
+	chown $SUDO_USER:$SUDO_USER /home/$SUDO_USER/.tmux.conf
 }
 
 # Call functions
 echo "Start building the environment..."
 check_priv
 update
+setup_tmux
 get_github_tools

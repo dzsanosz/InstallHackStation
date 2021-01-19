@@ -15,7 +15,7 @@ function check_priv {
 function update {
 	apt update && apt full-upgrade -y
 	# TODO Enrich this list
-	apt install git tmux forensics-extra rlwrap steghide seclist wfuzz
+	apt install -y git tmux forensics-extra rlwrap steghide seclist wfuzz openvpn
 }
 
 # Clone some useful tool from github

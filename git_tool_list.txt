@@ -32,3 +32,11 @@ https://github.com/Dhayalanb/windows-php-reverse-shell.git
 https://github.com/AlessandroZ/LaZagne.git
 https://github.com/rasta-mouse/Watson.git
 https://github.com/CiscoCXSecurity/creddump7.git
+https://github.com/michenriksen/aquatone
+https://github.com/3v4Si0N/HTTP-revshell
+https://github.com/Ziconius/FudgeC2.git
+https://github.com/nettitude/PoshC2.git
+https://github.com/lmammino/jwt-cracker.git
+https://github.com/DominicBreuker/pspy
+https://github.com/OsandaMalith/LFiFreak
+

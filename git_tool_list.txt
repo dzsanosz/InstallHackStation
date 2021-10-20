@@ -39,4 +39,4 @@ https://github.com/nettitude/PoshC2.git
 https://github.com/lmammino/jwt-cracker.git
 https://github.com/DominicBreuker/pspy
 https://github.com/OsandaMalith/LFiFreak
-
+https://github.com/Tuhinshubhra/CMSeeK.git

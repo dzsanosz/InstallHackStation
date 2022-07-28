@@ -44,3 +44,5 @@ https://github.com/epi052/feroxbuster.git
 https://github.com/BishopFox/sliver.git
 https://github.com/lefayjey/linWinPwn.git
 https://github.com/epinna/tplmap.git
+https://github.com/liamg/traitor.git
+https://github.com/Mickdep/Tartaros.git
